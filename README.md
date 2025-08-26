@@ -41,13 +41,14 @@ graph TD
 🔹 AI Chat Interface  
 ![Chat](assets/chat.jpg)
 
-🔹 Nutrition Goals & History  
+🔹 Enter your name to get started  
 ![Goals](assets/goals.jpg)
 
 
 ## 📦 Installation
 
-### 1. Clone the repo
+### 1. Clone the repository
+
 ```bash
-git clone https://github.com/your-username/nutritional-assistant.git
-cd nutritional-assistant
+git clone https://github.com/nade1234/-Smart-Meal-Planner-.git
+cd -Smart-Meal-Planner-
